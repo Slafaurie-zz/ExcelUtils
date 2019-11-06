@@ -7,7 +7,7 @@ Created on Sat Oct 26 11:32:21 2019
 
 import numpy as np
 
-def eliminar_dup_xy(df): 
+def eliminar_duplicadas(df): 
     
     y_col = [x for x in df.columns if x.endswith("_x")]
     
