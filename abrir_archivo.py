@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 26 11:30:51 2019
 
-@author: Sebastian Lafaurie
-"""
 import pandas as pd 
 
 ''' Descripcion: Abre un DataFrame a partir de un archivo csv o xlsx teniendo en cuenta si el separador es ; o ,'''
