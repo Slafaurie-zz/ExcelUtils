@@ -1,2 +1,3 @@
 # Python_Excel
-Scripts en Python para manipular archivos en Excel/CSV enfocados al análisis de datos: Uso intensivo de pandas y numpy.
+
+A script which concatenates a series of csv or xlsx files into one single file whith the unique columns from all files. 
